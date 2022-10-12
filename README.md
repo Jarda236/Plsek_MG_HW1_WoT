@@ -8,3 +8,9 @@ Here I will write some brief info about WoT. Then I tell something about my acco
 
 ## Basic info
 I started to play this game, when I was 12 years old. Since then I play almost 20000 battles. But nowadays there is no time for playing.
+
+## Stats
+- Winrate: 50,95%
+- Average DMG: 913
+- Average XP: 450
+- Maximum destroyed enemies: 8
