@@ -14,3 +14,5 @@ I started to play this game, when I was 12 years old. Since then I play almost 2
 - Average DMG: 913
 - Average XP: 450
 - Maximum destroyed enemies: 8
+
+game is super
