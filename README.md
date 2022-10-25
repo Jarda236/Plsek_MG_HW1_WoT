@@ -15,6 +15,9 @@ I started to play this game, when I was 12 years old. Since then I play almost 2
 - Average XP: 450
 - Maximum destroyed enemies: 8
 
+## My Clan
+- [VTCZ](https://eu.wargaming.net/clans/wot/500014255/players/#players&offset=0&limit=25&order=-role&timeframe=all&battle_type=default)
+
 
 
 
